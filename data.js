@@ -129,7 +129,7 @@ const places = [
     id: 11,
     name: "Дендрологический парк «Южные культуры»",
     category: "park",
-    photo: "images/dendropark.jpg",
+    photo: "images/P0.jpg",
     address: "ул. Нагорный тупик, 13",
     description: "600+ видов растений из разных стран.",
     workingHours: "9:00-18:00",
@@ -142,7 +142,7 @@ const places = [
     id: 12,
     name: "Автомузей Ника Панули",
     category: "museum",
-    photo: "images/carmuseum.jpg",
+    photo: "images/er1.jpg",
     address: "ул. Триумфальная, 26",
     description: "Коллекция из 50 ретроавтомобилей.",
     workingHours: "Ср-Вс: 11:00-19:00",
@@ -152,7 +152,7 @@ const places = [
   },
 
   {
-    id: 9,
+    id: 13,
     name: "Электрический музей Николы Теслы",
     category: "museum",
     photo: "images/portesl.jpg",
